@@ -31,4 +31,6 @@ $git pull
 
 $python Instagram.py
 
+SEBELUM MASUK KETIK DULU mkdir Data
+
 OKE MAKASIH!
