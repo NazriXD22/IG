@@ -29,6 +29,6 @@ $cd IG
 
 $git pull
 
-$python ig_enc.py
+$python Instagram.py
 
 OKE MAKASIH!
